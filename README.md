@@ -1,4 +1,4 @@
-# Hotels-Reviews_EDA_Sparklyr_NLP_in_R
+# Hotels-Reviews_Dataset_EDA_Sparklyr_NLP_in_R
 Implementing EDA, using Sparklyr library and NLP technique in R
 
 I use a big data set containing 515,000 customer reviews and scoring of  1493 luxury hotels across Europe. I use Python for Data Exploratory Analysis and Data preprocessing, sparklyr for my analysis, and Tableau for creating 
